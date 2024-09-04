@@ -1,0 +1,52 @@
+[00:19:36 16/7/2024] "GET /" 404
+[00:19:46 16/7/2024] "GET /stock/" 404
+[00:20:06 16/7/2024] "GET /stock/BF?tk=nino100&mk=nino000" 401
+[00:20:07 16/7/2024] "GET /favicon.ico" 404
+[00:20:14 16/7/2024] "GET /stock/BF?tk=nino100&mk=nino000&api_key=main" 200
+[00:55:11 16/7/2024] "GET /check?api_key=main" 200
+[00:55:12 16/7/2024] "GET /favicon.ico" 404
+[00:55:34 16/7/2024] "GET /account?orderID=" 400
+[00:55:42 16/7/2024] "GET /account?orderID=2OEO-CYXT-M72Z-YXQ" 200
+[00:56:48 16/7/2024] "GET /clear" 401
+[00:56:49 16/7/2024] "GET /favicon.ico" 404
+[00:56:58 16/7/2024] "GET /clear?api_key=main" 200
+[00:58:42 16/7/2024] "GET /check?api_key=apikeys" 401
+[00:58:43 16/7/2024] "GET /favicon.ico" 404
+[00:58:56 16/7/2024] "GET /check?api_key=main" 404
+[01:34:18 16/7/2024] "GET /" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13
+[01:34:25 16/7/2024] "GET /account?orderID=" 400 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13
+[01:34:26 16/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13
+[01:34:36 16/7/2024] "GET /check" 401 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13
+[01:38:05 16/7/2024] "GET /check" 401 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:38:06 16/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:47:44 16/7/2024] "GET /stock/BF?tk=nino1&mk=nino2&api_key=main" 500 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:47:44 16/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:48:43 16/7/2024] "GET /stock/BF?tk=nino1&mk=nino2&api_key=main" 200 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:48:44 16/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:51:06 16/7/2024] "GET /stock/BF?tk=nino2&mk=nino0&apikey=main" 401 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:51:07 16/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:51:16 16/7/2024] "GET /stock/BF?tk=nino2&mk=nino0&api_key=main" 200 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:51:36 16/7/2024] "GET /clear" 401 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:51:47 16/7/2024] "GET /clear?api_key=main" 200 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[01:57:57 16/7/2024] "GET /createApiKey/custom?key=" 400 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[01:57:58 16/7/2024] "GET /favicon.ico" 404 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[01:58:15 16/7/2024] "GET /createApiKey/custom?key=nino?api_key=norataisen" 400 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[02:19:16 16/7/2024] "GET /clear" 401 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[02:19:17 16/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[02:19:23 16/7/2024] "GET /clear?api_key=main" 200 - IP: 2402:800:620f:c3e0:569:fe3e:b671:6e13 - Location: Da Nang, VN
+[17:20:08 18/7/2024] "GET /stats" 200 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[17:20:09 18/7/2024] "GET /favicon.ico" 404 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[17:20:15 18/7/2024] "GET /check" 401 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[17:20:19 18/7/2024] "GET /clear" 401 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[17:20:32 18/7/2024] "GET /clear?api_key=main" 200 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[17:20:37 18/7/2024] "GET /stats" 200 - IP: 171.234.12.62 - Location: Quảng Ngãi, VN
+[17:22:26 18/7/2024] "GET /stats" 200 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:22:27 18/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:22:34 18/7/2024] "GET /clear" 401 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:22:41 18/7/2024] "GET /clear?api_key=main" 200 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:22:45 18/7/2024] "GET /stats" 200 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:26:27 18/7/2024] "GET /stats" 200 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:28:35 18/7/2024] "GET /stats" 200 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:55:09 18/7/2024] "GET /pricing" 401 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:55:10 18/7/2024] "GET /favicon.ico" 404 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
+[17:55:20 18/7/2024] "GET /pricing?api_key=main" 200 - IP: 2402:800:620f:c3e0:18a3:2cf9:cb5b:d2df - Location: Da Nang, VN
